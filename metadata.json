@@ -1,0 +1,6 @@
+{
+  "name": "Pagewoga Admin Panel",
+  "description": "Admin panel for Pagewoga platform operations, competitions, and user management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
